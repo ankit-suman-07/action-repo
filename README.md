@@ -19,4 +19,5 @@
 - Test push 9 [Add <b> tag in message string]
 - Test push 10 [Updated UI test]
 - Test push 11 [New branch]
-- Test push 11 [New branch 3]
+- Test push 12 [New branch 3]
+- Test push 12 [Simple push operation]
