@@ -17,3 +17,4 @@
 - Test push 7 [Demo]
 - Test push 8 [Added escape characters]
 - Test push 9 [Add <b> tag in message string]
+- Test push 10 [Updated UI test]
