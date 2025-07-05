@@ -14,3 +14,4 @@
 - Test push 4 [Message render issue]
 - Test push 5 [Code cleanup]
 - Test push 6 [DB cleaned]
+- Test push 7 [Demo]
