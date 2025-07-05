@@ -16,3 +16,4 @@
 - Test push 6 [DB cleaned]
 - Test push 7 [Demo]
 - Test push 8 [Added escape characters]
+- Test push 9 [Add <b> tag in message string]
