@@ -13,3 +13,4 @@
 - Test push 3 [Date format update]
 - Test push 4 [Message render issue]
 - Test push 5 [Code cleanup]
+- Test push 6 [DB cleaned]
